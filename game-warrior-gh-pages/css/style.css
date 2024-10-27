@@ -183,7 +183,7 @@ ol {
 
 
 /* Preloder */
-#preloder {
+/* #preloder {
 	position: fixed;
 	width: 100%;
 	height: 100%;
@@ -204,9 +204,9 @@ ol {
 	border-radius: 60px;
 	animation: loader 0.8s linear infinite;
 	-webkit-animation: loader 0.8s linear infinite;
-}
+} */
 
-@keyframes loader {
+/* @keyframes loader {
 	0% {
 		-webkit-transform: rotate(0deg);
 		transform: rotate(0deg);
@@ -243,7 +243,7 @@ ol {
 		border: 4px solid #f44336;
 		border-left-color: transparent;
 	}
-}
+} */
 
 /*------------------
   Header section
@@ -1516,6 +1516,7 @@ ol {
 
 
 
+/* login page css  */
 
 
 

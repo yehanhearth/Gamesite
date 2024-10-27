@@ -55,7 +55,7 @@
             <div class="character-slide-content">
             <div class="character-slide-content-bottom " style="background-color: rgba(0, 0, 0, 0.5); border-radius:10px ;" >
                 <h2 class="character-name text-light">Venura Gimhan</h2>
-                <h5 class="text-light" style="margin: 10px;" >UnderGraduate Software Engineer <br> Contact :- +94 76 282 2831</h5>
+                <h5 class="text-light" style="margin: 10px;" >UnderGraduate Software Engineer <br> Contact :- +94 76 185 1456</h5>
                 </h3>
               </div>
             </div>
@@ -69,7 +69,7 @@
             <div class="character-slide-content">
             <div class="character-slide-content-bottom " style="background-color: rgba(0, 0, 0, 0.5); border-radius:10px ;" >
                 <h2 class="character-name text-light">Dileni</h2>
-                <h5 class="text-light" style="margin: 10px;" >UnderGraduate Software Engineer <br> Contact :- +94 76 282 2831</h5>
+                <h5 class="text-light" style="margin: 10px;" >UnderGraduate Software Engineer <br> Contact :- +94 74 348 8013</h5>
 
                 </h3>
               </div>

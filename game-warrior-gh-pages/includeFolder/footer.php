@@ -61,7 +61,7 @@
 	<footer class="footer-section">
 		<div class="container">
 			<ul class="footer-menu">
-				<li><a href="home.php">Home</a></li>
+				<li><a href="index.php">Home</a></li>
 				<li><a href="games.php">Games</a></li>
 				<li><a href="account.php">Account</a></li>
 				<li><a href="about.php">About Us</a></li>

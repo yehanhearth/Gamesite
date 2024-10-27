@@ -9,7 +9,7 @@
 </head>
 <body>
 <div class="latest-news-section">
-		<div class="ln-title">Latest News</div>
+		<div class="ln-title">Warning!!!!!</div>
 		<div class="news-ticker">
 			<div class="news-ticker-contant">
 				<div class="nt-item"><span class="new">new</span>Lorem ipsum dolor sit amet, consectetur adipiscing
