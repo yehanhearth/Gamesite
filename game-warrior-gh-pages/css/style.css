@@ -99,6 +99,7 @@ ol {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: top center;
+
 }
 
 .spad {
@@ -179,6 +180,7 @@ ol {
 .cata.adventure {
 	background: #40abf5;
 }
+
 
 /* Preloder */
 #preloder {
@@ -317,11 +319,13 @@ ol {
 	height: 865px;
 	display: table;
 	width: 100%;
+	background-color: rgba(0, 0, 0, 0.5);
 }
 
 .hero-slider .hs-text {
 	display: table-cell;
 	vertical-align: middle;
+	background-color: rgba(0, 0, 0, 0.5);
 }
 
 .hero-slider .hs-text h2 {
@@ -1509,3 +1513,20 @@ ol {
 		font-size: 40px;
 	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*mdfofnvjkcnlb ccbjxnb*/
+
+
+
