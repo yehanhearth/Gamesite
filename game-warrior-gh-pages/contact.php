@@ -13,11 +13,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i" rel="stylesheet">
 
 	<!-- Stylesheets -->
-	<link rel="stylesheet" href="css/bootstrap.min.css"/>
-	<link rel="stylesheet" href="css/font-awesome.min.css"/>
-	<link rel="stylesheet" href="css/owl.carousel.css"/>
-	<link rel="stylesheet" href="css/style.css"/>
-	<link rel="stylesheet" href="css/animate.css"/>
+
 
 
 	<!--[if lt IE 9]>
@@ -26,52 +22,23 @@
 	<![endif]-->
 
 </head>
-<body>
+
 	<!-- Page Preloder -->
 	<div id="preloder">
 		<div class="loader"></div>
 	</div>
 
 	<!-- Header section -->
-	<header class="header-section">
-		<div class="container">
-			<!-- logo -->
-			<a class="site-logo" href="index.html">
-				<img src="img/logo.png" alt="">
-			</a>
-			<div class="user-panel">
-				<a href="#">Login</a>  /  <a href="#">Register</a>
-			</div>
-			<!-- responsive -->
-			<div class="nav-switch">
-				<i class="fa fa-bars"></i>
-			</div>
-			<!-- site menu -->
-			<nav class="main-menu">
-				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="games.html">Games</a></li>
-					<li><a href="account.html">Account</a></li>
-					<li><a href="about.html">About Us</a></li>
-					<li><a href="contact.html">Contact</a></li>
-				</ul>
-			</nav>
-		</div>
-	</header>
+<?php
+include "./includeFolder/navBar.php";
+?>
 	<!-- Header section end -->
 
 
 	<!-- Latest news section -->
-	<div class="latest-news-section">
-		<div class="ln-title">Latest News</div>
-		<div class="news-ticker">
-			<div class="news-ticker-contant">
-				<div class="nt-item"><span class="new">new</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </div>
-				<div class="nt-item"><span class="strategy">strategy</span>Isum dolor sit amet, consectetur adipiscing elit. </div>
-				<div class="nt-item"><span class="racing">racing</span>Isum dolor sit amet, consectetur adipiscing elit. </div>
-			</div>
-		</div>
-	</div>
+	<?php
+include "./includeFolder/WarningSlider.php";
+?>
 	<!-- Latest news section end -->
 
 
@@ -102,9 +69,9 @@
 					<div class="row">
 						<div class="col-md-9">
 							<ul class="contact-info-list">
-								<li><div class="cf-left">Address</div><div class="cf-right">1481 Creekside Lane Avila Beach, CA 931</div></li>
-								<li><div class="cf-left">Phone</div><div class="cf-right">+53 345 7953 32453</div></li>
-								<li><div class="cf-left">E-mail</div><div class="cf-right">yourmail@gmail.com</div></li>
+								<li><div class="cf-left">Address</div><div class="cf-right">40b,juntion wadduwa</div></li>
+								<li><div class="cf-left">Phone</div><div class="cf-right">+94 763475547</div></li>
+								<li><div class="cf-left">E-mail</div><div class="cf-right">our@gmail.com</div></li>
 							</ul>
 						</div>
 					</div>
@@ -144,8 +111,8 @@
 
 
 	<?php
-	include "footer.php";
-	?>
+include "./includeFolder/footer.php";
+?>
 
 	<!--====== Javascripts & Jquery ======-->
 	<script src="js/jquery-3.2.1.min.js"></script>

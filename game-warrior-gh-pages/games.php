@@ -179,7 +179,7 @@ include "./includeFolder/WarningSlider.php";
 
 
 	<!-- Review section -->
-	<section class="review-section review-dark spad set-bg" data-setbg="img/review-bg-2.jpg">
+	<section class="review-section spad set-bg" style="background-color: black;" data-setbg="img/review-bg-2.jpg">
 		<div class="container">
 			<div class="section-title text-white">
 				<div class="cata new">new</div>
