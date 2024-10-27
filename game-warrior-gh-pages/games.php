@@ -60,7 +60,7 @@ include "./includeFolder/WarningSlider.php";
 			<div class="row">
 				<div class="col-md-6">
 					<div class="review-item">
-						<div class="review-cover set-bg" data-setbg="img/review/5.jpg">
+						<div class="review-cover set-bg" data-setbg="./img/game/image.png">
 							
 						</div>
 						<div class="review-text">
