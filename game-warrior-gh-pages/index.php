@@ -70,7 +70,7 @@ include "./includeFolder/navBar.php";
 
 	<!-- Latest news section -->
 	 <?php
-	include "./includeFolder/WarningSlider.php.php";
+	include "./includeFolder/WarningSlider.php";
 	?>
 	<!-- Latest news section end -->
 

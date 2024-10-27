@@ -26,14 +26,14 @@
 
 	<!-- Header section -->
 <?php
-include "navBar.php"
+include "./includeFolder/navBar.php"
 ?>
 	<!-- Header section end -->
 
 
 	<!-- Latest news section -->
 <?php
-include "slider.php";
+include "./includeFolder/WarningSlider.php";
 ?>
 	<!-- Latest news section end -->
 
@@ -237,7 +237,7 @@ include "slider.php";
 
 
 	<?php
-	include "footer.php";
+	include "./includeFolder/footer.php";
 	?>
 
 	<!--====== Javascripts & Jquery ======-->
